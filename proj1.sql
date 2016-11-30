@@ -1,7 +1,4 @@
 -- COMP9311 15s1 Project 1
---
--- MyMyUNSW Solution Template
-
 -- Q1: ...
 
 create or replace view q1(unswid, name)
